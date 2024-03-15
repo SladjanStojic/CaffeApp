@@ -1,0 +1,9 @@
+
+VREME	2024-03-14 17:25:24.0
+KONOBAR	Marko	Rajicevic
+RB	NAZIV	KOLICINA	CENA	PDV	UKUPNO
+---------------------------------------
+
+1	Espreso	1	120.0	15.0	138.0
+---------------------------------------
+					UKUPNO: 138.0
